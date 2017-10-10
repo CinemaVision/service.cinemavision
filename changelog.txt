@@ -1,0 +1,5 @@
+Changelog for CinemaVision Service Add-on
+
+[- 1.0.0 -]
+
+- add:     Ability to update content based on Kodi start, database scan or time interval
